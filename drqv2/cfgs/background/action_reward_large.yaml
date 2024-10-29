@@ -1,0 +1,9 @@
+# Works for cheetah but not in general
+
+background:
+  num_cells_per_dim: 16
+  num_colors_per_cell: 11664
+  evil_level: max
+  action_dims_to_split: [ 0, 1, 2, 3, 4, 5 ]
+  action_power: 3
+  action_splits: null

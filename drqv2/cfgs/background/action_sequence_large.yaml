@@ -1,0 +1,6 @@
+background:
+  num_colors_per_cell: 12500
+  evil_level: action_cross_sequence
+  action_dims_to_split: [0, 1]
+  action_power: null
+  action_splits: [4, 5]
